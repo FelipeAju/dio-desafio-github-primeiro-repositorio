@@ -36,6 +36,7 @@
 * git add * -> Adiciona tudo
 * git commit  -m "frase explicando" -> Registra o momento do projeto no repositório local
 * git push origin master -> Empurra para o repositório remoto
+* git clone -> Clona repositório remoto para o repositório local
 
 
 
