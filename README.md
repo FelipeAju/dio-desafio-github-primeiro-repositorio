@@ -1,8 +1,6 @@
 # Desafio de Projeto sobre Git/GitHub da DIO :white_check_mark:
 Repositório criado para o Desafio de Projeto.
 
-Incluído o Resume (currículo CV) como complemento
-
 ## Links Úteis :link:
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
